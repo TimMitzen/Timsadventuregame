@@ -1,8 +1,7 @@
 # Timsadventuregame
 Litte adventure game I made with Python
 
-# Baseball game
-run git clone https://github.com/TimMitzen/Basketballgame.git
+run git clone https://github.com/TimMitzen/Timsadventuregame.git
 
 open terminal and cd into whatever folder you cloned above
 
