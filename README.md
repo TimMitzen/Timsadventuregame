@@ -5,7 +5,7 @@ run git clone https://github.com/TimMitzen/Timsadventuregame.git
 
 open terminal and cd into whatever folder you cloned above
 
-type whatever python version plus baseball.py - example python3 baselball.py 
+type whatever python version plus timgame.py - example python3 timgame.py 
 
 follow instructions on the screen, h is for a hit, p is for taking a pitch, s to show the scoreboard and q for quit.
 
